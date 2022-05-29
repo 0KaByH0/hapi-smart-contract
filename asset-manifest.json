@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hapi-smart-contract/static/css/main.2ecd9f66.css",
+    "main.js": "/hapi-smart-contract/static/js/main.7cef41f5.js",
+    "index.html": "/hapi-smart-contract/index.html",
+    "main.2ecd9f66.css.map": "/hapi-smart-contract/static/css/main.2ecd9f66.css.map",
+    "main.7cef41f5.js.map": "/hapi-smart-contract/static/js/main.7cef41f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ecd9f66.css",
+    "static/js/main.7cef41f5.js"
+  ]
+}
